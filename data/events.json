@@ -55,5 +55,25 @@
       "Link": "https://sessionize.com/gdg-ahmedabad-devfest-2023/",
       "LastDate": "2023-09-23"
     }
+  },
+  {
+      "City":"Motihari",
+      "CommunityName":"GDG Cloud Motihari",
+      "DevFestName":"DevFest Motihari, India 2023",
+      "Days":"1",
+      "StartingDate":"2023-10-07",
+      "EndingDate":"2023-10-07",
+      "Venue":"Seminar Hall, Laxmi Narayan Dubey College, Motihari",
+      "Description":"Join us for DevFests Motihari. DevFests are local conferences hosted by Google Developer Groups (GDG) around the world. Each DevFest is crafted by its local organizers to fit the needs and interests of its local developer community. Whether it be through hands-on learning experiences, technical talks delivered in local languages by experts, or by simply meeting fellow local developers, DevFest attendees learn how to build together and innovate on Google's developer tools.",
+      "EventLink":"https://gdg.community.dev/events/details/google-gdg-cloud-motihari-presents-devfest-motihari-india-2023/",
+      "CommunityPage":"https://gdg.community.dev/gdg-cloud-motihari/",
+      "Visible":"true",
+      "State":"Bihar",
+      "CFP":{
+          "Status":"0",
+          "Link":"https://devfestindia.com",
+          "LastDate":"2023-10-01"
+      }
   }
+
 ]
